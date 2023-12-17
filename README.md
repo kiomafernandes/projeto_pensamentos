@@ -6,6 +6,6 @@ Esse projto é um sistema simples de compartilhamento de pensamentos produzido c
 
 Kioma Fernandes
 
-## Ferramntas e tecnologias utilizadas
+## Ferramentas e tecnologias utilizadas
 
 Node JS, Visual Studio Code, Express, Sequelize, Handlebars e MySQL
