@@ -1,6 +1,6 @@
 # SOBRE
 
-Esse projeto é um sistema simples de compartilhamento de pensamentos produzido com arquitetura MVC. 
+Esse projeto é um sistema simples de compartilhamento de pensamentos, foi produzido com arquitetura MVC. 
 
 ## Autor
 
