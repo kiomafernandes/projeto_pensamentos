@@ -1,6 +1,6 @@
 # SOBRE
 
-Esse projto é um sistema simples de compartilhamento de pensamentos em MVC. 
+Esse projto é um sistema simples de compartilhamento de pensamentos produzido com arquitetura MVC. 
 
 # Autor
 
